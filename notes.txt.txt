@@ -1,0 +1,6 @@
+notes.txt
+
+
+Day 1 - Started learning Azure Fundamentals. 
+
+Learned about IaaS, PaaS, and SaaS.
